@@ -1,4 +1,6 @@
-# npds_learningcar
+
+# npds_learningcar<img width="1284" height="663" alt="base blista learningcar" src="https://github.com/user-attachments/assets/b90700f6-b839-44ab-bfba-dfcf633ddd55" />
+
 A car for youre driving schools in los santos
 
 Fury Simplerifle build from scratch and fully animated.
